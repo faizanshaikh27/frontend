@@ -1,4 +1,3 @@
-// src/pages/Home.js
 import React, { useState } from 'react';
 import QRCodeDisplay from '../components/QRCodeDisplay';
 import { generateQRCode } from '../services/qrService';

@@ -1,4 +1,3 @@
-// src/components/QRCodeDisplay.js
 import React from 'react';
 
 const QRCodeDisplay = ({ qrImage }) => {
